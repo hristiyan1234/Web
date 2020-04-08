@@ -1,0 +1,45 @@
+<div class="menu-wrap">
+		<nav class="menu">
+			<ul class="clearfix">	
+				<li><a href="index.html"><span class="home">&#127968;</span> Начало</a></li>
+				<li><a href="#">Континенти<span class="arrow">&#9660;</span></a>
+					<ul class="sub-menu">
+						<li><a href="Asia.html">Азия</a></li>
+						<li><a href="Africa.html">Африка</a></li>
+						<li><a href="S_A.html">Южна Америка</a></li>
+						<li><a href="N_A.html">Северна Америка</a></li>
+						<li><a href="Antarctica.html">Антарктида</a></li>
+						<li><a href="Europe.html">Европа</a></li>
+						<li><a href="Australia.html">Австралия</a></li>
+					</ul>
+				<li style="left: 0px; top: 0px"><a href="#">Океани <span class="arrow">
+				&#9660;</span></a>
+					<ul class="sub-menu">
+						<li><a href="Pasific.html">Тихи океан</a></li>
+						<li><a href="Atlantic.html">Атландически океан</a></li>
+						<li><a href="Indian.html">Индийски океан</a></li>
+						<li><a href="North.html">Северeн ледовит океан</a></li>
+					</ul>
+				<li><a href="#">Геосфери <span class="arrow">&#9660;</span></a>
+					<ul class="sub-menu">
+						<li><a href="Atmosphere.html">Атмосфера</a></li>
+						<li><a href="Biosphere.html">Биосфера</a></li>
+						<li><a href="Litosphere.html">Литосфера</a></li>
+						<li><a href="Pedosphere.html">Педосфера</a></li>
+						<li><a href="Hydrosphere.html">Хидросфера</a></li>
+					</ul>
+				<li><a href="#">Велики географски открития <span class="arrow">&#9660;</span></a>
+					<ul class="sub-menu">
+						<li><a href="America.html">Откриването на Америка</a></li>
+						<li><a href="India.html">Пътят през Индия</a></li>
+						<li><a href="World.html">Околосветското пътешествие</a></li>
+						<li><a href="The_Earth.html">Откритието, че Земята е 
+						кръгла и се върти</a></li>
+					</ul>
+				<li><a href="Gallery.html"><span class="paint">&#127912;</span> Галерия</a></li>
+				<li><a href="Contacts.html"><span class="contacts">&#128231;</span> 
+				Контакти</a></li>
+			</ul>
+		</nav>
+	</div>
+
