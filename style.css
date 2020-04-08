@@ -1,0 +1,26 @@
+h1{
+	color: red;
+	font-family:OldCyr, Helvetica, sans-serif;
+	position:absolute;
+	font-style:italic;
+	border:thick;	
+}
+.class1
+{
+color:fuchsia;
+font-size:123px;
+}
+
+.class1:hover
+{
+	color: blue;
+	font-size: 98px;
+}
+
+
+img
+{
+	width:570px;
+	height: 550px;
+}
+
