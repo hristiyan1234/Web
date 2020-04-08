@@ -8,13 +8,13 @@ h1{
 .class1
 {
 color:fuchsia;
-font-size:123px;
+font-size:98px;
 }
 
 .class1:hover
 {
-	color: blue;
-	font-size: 98px;
+	color: green;
+	font-size: 123px;
 }
 
 
