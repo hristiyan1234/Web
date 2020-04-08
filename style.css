@@ -1,4 +1,4 @@
-h1{
+#sn{
 	color: red;
 	font-family:OldCyr, Helvetica, sans-serif;
 	position:absolute;
@@ -23,4 +23,13 @@ img
 	width:570px;
 	height: 550px;
 }
-
+#well{
+	color:blue;
+	position:default;
+	padding:15px;
+	font-size:150px;
+	text-align:center
+}
+a{
+font-size:40px;
+}
