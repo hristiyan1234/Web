@@ -1,0 +1,327 @@
+.style1
+{
+	position:absolute;
+	width:40px;
+	height:25px;
+	left:45%;
+	top: 5%;
+}
+
+.style2
+{
+	position:absolute;
+	width:40px;
+	height:25px;
+	left:49%;
+	top: 5%;
+}
+
+.menu
+{
+	width:1330px;
+	margin:0 auto;
+}
+
+.menu-wrap 
+{
+    width: 1330px;
+    box-shadow: 0px 1px 3px rgba(0,0,0,0.2);
+    background: #3e3436;
+    height:39.5px;
+    margin-top: -10px;
+    margin-left:10px ;
+ }
+
+.menu li
+{
+	margin-left:-7px;
+	list-style:none;
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration:none;
+}
+
+.menu a 
+{
+	transition:all linear 0.15s;
+	color:#919191;
+	text-decoration:none;
+}
+
+.menu > ul > li 
+{
+	float:left;
+	display: block;
+	position:relative;
+	font-size:16px;
+}
+
+.menu > ul > li > a 
+{
+	padding:10px 40px;
+	display:block;
+	text-shadow:0px 1px 0px rgba(0,0,0,0.4);
+}
+
+.menu > ul > li:hover > a, .menu > ul > .current-item > a 
+{
+	background: #2C2929;
+	text-decoration:none;
+	color:#CC6699;
+}
+
+.sub-menu 
+{
+	width:153%;
+	padding:5px 0px;
+	position:absolute;
+	top:100%;
+	left:0px;
+	z-index:-1;
+	opacity:0;
+	transition:opacity linear 0.45s;
+	box-shadow:0px 2px 3px rgba(0,0,0,0.2);
+	background:#2e2728;
+}
+
+.sub-menu li 
+{
+	display:block;
+	font-size:16px;
+	text-align: left;
+	width:100%;
+	margin-left: 1px;
+	margin-top: -1px;
+}
+
+.sub-menu li a 
+{
+	padding:10px 30px;
+	display:block;
+}
+
+.menu li:hover .sub-menu 
+{
+	z-index:1;
+	opacity:1;
+}
+
+.sub-menu li a:hover, .sub-menu .current-item a 
+{
+	background:#3e3436;
+	color:#CC6699;
+}	
+
+*:before, *:after 
+{
+    margin: 0px;
+    padding: 0px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border: 0px;
+    font-size: 100%;
+    font: inherit;
+}
+
+.site-header-wrap 
+{
+    clear: left;
+    margin-bottom: 10px;
+    margin-left: -6px;
+    margin-right: 0px;    
+    margin-top: -150px;
+    padding: 60px 0px 50px;
+    background: #272136;
+    height:100px;
+    width:1355px;
+}
+
+#footer 
+{
+    clear: both;
+    padding: 40px 0px;
+   	text-align:center;    
+    border-top: 1px solid #000;
+    color: #EEE;
+    background: #272136;  
+    width:1355px;
+    margin-left:-6px;
+   
+
+} 
+
+body 
+{
+	background: #1E1311;
+	margin: 0 auto;
+	position:absolute;
+	max-width:1349px;
+	min-width:800px;
+}
+
+h1
+{
+	color: #005097;
+	text-align:center;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:35pt;	
+	width: 1210px;
+	margin: 10 auto;
+}
+
+img
+{
+	height:105pt;
+	width:270pt;
+	float:left;
+}
+
+p
+{	
+	margin: 20 auto;
+	text-align: justify;
+	width:50%;
+	color: #6FB92C;
+	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+
+
+.forma
+{
+	background: #1E1311;
+	width:350px;
+	margin: 10 auto;
+}
+
+.auto-style11
+{
+	position:absolute;
+	left:1090px;
+	top:390px;
+	height: 150px;
+	width:150px;
+}
+			
+.auto-style4 
+{
+	text-decoration: none;
+	margin-top: 0px;
+}
+		
+.auto-style5 
+{
+	color: #FFFFFF;
+	background-color: #272136;
+	font-size: medium;
+	margin-left: 243px;
+	margin-top: 3px;
+}		
+
+.auto-style6 
+{
+	font-size: xx-small;
+}
+		
+.auto-style7 
+{
+	font-size: x-small;
+}
+		
+.auto-style8 
+{
+	text-decoration: none;
+}
+
+.auto-style9
+{
+	color: #FFFFFF;
+}
+
+.auto-style10 
+{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+.auto-style12
+{
+	width:160px;
+	height:160px;
+}
+
+.style19
+{
+	margin: 0 auto;
+}
+
+.img
+{
+	width:240px;
+	height:160px;
+	position:absolute;
+	right:1060px;
+	top:390px;
+
+}
+
+.img2
+{
+	width:240px;
+	height:160px;
+	right:1060px;
+	top:600px;
+	position:absolute;
+}
+
+.img3
+{
+	width:250px;
+	height:160px;
+	left:1060px;
+	top:600px;
+	position:absolute;
+
+}
+
+.img4
+{
+	width:250px;
+	height:160px;
+	left:1060px;
+	top:390px;
+	position:absolute;
+
+}
+
+.img5
+{
+	width:240px;
+	height:460px;
+	position:absolute;
+	right:1060px;
+	top:390px;
+
+}
+
+.img6
+{
+	width:240px;
+	height:260px;
+	position:absolute;
+	right:1060px;
+	top:390px;
+
+}
+
+
+::selection {
+background: #009900; 
+color:red; 
+}
+::-moz-selection 
+{
+background:#red;
+color:#lime; 
+}
+
+
