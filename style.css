@@ -16,8 +16,7 @@ h1
 
 .flex-container {
   display: flex;
-  justify-content: center;
-  background-color:  transparent;
+  flex-direction: column;
 }
 
 .flex-container > div {
