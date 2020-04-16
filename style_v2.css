@@ -1,50 +1,31 @@
+
+.auto-style1 {
+	
+	background-color: #FFFFCC;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
 body 
 {
 background: rgb(15,0,0);
 background: linear-gradient(0deg, rgba(15,0,0,1) 0%, rgba(124,2,2,1) 48%, rgba(1,17,20,1) 100%);
 }
-h1
+
+
+
+img
 {
-
-	color: #005097;
-	font-family: Helvetica, sans-serif, "Comic Sans MS";
-	font-size:35pt;	
-	margin: 0 auto;
+	width:570px;
+	height: 550px;
 }
-
-.first_imgs{
-	width:50%;
-	margin:0 auto;
-	
+#well{
+	color:blue;
+	position:default;
+	padding:15px;
+	font-size:150px;
+	text-align:center
 }
-
-#the_div{
-width:90%;
-margin:0 auto;
-}
-
-.flex-container {
-
-    width:90%;
-	margin:0 auto;
-	margin-top:40px;
-}
-
-.flex-container > div {
-
-  position:relative;
-  background-color: #f1f1f1;
-  margin: 0 auto;
-  text-align: center;
-  line-height: 75px;
-  font-size: 30px;
-}
-.flex-container > div > p {
-  margin: 0 auto;
-  text-align: center;
-  width:80%;
-}
-
 a{
 font-size:40px;
 }
@@ -55,6 +36,7 @@ font-size:40px;
 	margin:0 auto;
 	background-color:gray;
 	min-height:68px;
+	min-width:842px;
 }
 
 .m-menu {
